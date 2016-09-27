@@ -1,0 +1,6 @@
+c:\users\windowsplateform\documents\visual studio 2015\Projects\MySQLLibrary\MySQLLibrary\bin\Release\MySQLLibrary.dll
+c:\users\windowsplateform\documents\visual studio 2015\Projects\MySQLLibrary\MySQLLibrary\bin\Release\MySQLLibrary.pdb
+c:\users\windowsplateform\documents\visual studio 2015\Projects\MySQLLibrary\MySQLLibrary\bin\Release\MySql.Data.dll
+c:\users\windowsplateform\documents\visual studio 2015\Projects\MySQLLibrary\MySQLLibrary\obj\Release\MySQLLibrary.csprojResolveAssemblyReference.cache
+c:\users\windowsplateform\documents\visual studio 2015\Projects\MySQLLibrary\MySQLLibrary\obj\Release\MySQLLibrary.dll
+c:\users\windowsplateform\documents\visual studio 2015\Projects\MySQLLibrary\MySQLLibrary\obj\Release\MySQLLibrary.pdb
